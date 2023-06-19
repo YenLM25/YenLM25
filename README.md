@@ -1,5 +1,5 @@
 - 👋 Hola, soy @YenLM25
-- 👀 I’m interested in ...
+
 - 🌱 Actualmente estoy aprendiendo...
 
 
